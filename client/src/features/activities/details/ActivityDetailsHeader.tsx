@@ -64,7 +64,7 @@ import { Card, Badge, CardMedia, Box, Typography, Button } from "@mui/material";
                                  variant="contained"
                                  color="primary"
                                  component={Link}
-                                 to={`/manage/activityId`}
+                                 to={`/manage/${activity.id}`}
                                  disabled={isCancelled}
                              >
                                  Manage Event

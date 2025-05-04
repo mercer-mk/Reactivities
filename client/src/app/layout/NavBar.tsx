@@ -9,7 +9,7 @@ import {
   LinearProgress,
 } from "@mui/material";
 import { NavLink } from "react-router";
-import MenuItemLink from "../shared/componentes/MenuItemLink";
+import MenuItemLink from "../shared/components/MenuItemLink";
 import { Observer } from "mobx-react-lite";
 import { useStore } from "../../lib/hooks/useStore";
 

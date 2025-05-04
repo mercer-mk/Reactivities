@@ -13,7 +13,7 @@ export default function ActivityDashboard() {
         <ActivityList
         />
       </Grid>
-      <Grid size={8}>
+      <Grid size={4}>
           <ActivityFilters/>
       </Grid>
     </Grid>
